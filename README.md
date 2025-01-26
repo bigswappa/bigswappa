@@ -47,13 +47,5 @@ An app that tracks and optimizes your workout based on AI predictions of your bo
 - **Sandcastle Engineering**: When I’m on the beach, I don’t just build sandcastles—I engineer them. I have designed fully functional (well, almost) sand structures, including a sand version of the Eiffel Tower that *may* have collapsed under high winds.
 - **Quantum Pizza**: My hobbies are unpredictable, and so is my pizza. Using quantum tunneling (read: a fancy oven setting), I create pizzas that are always slightly different every time I bake them.
 
-## 📬 Contact Me
-
-Feel free to reach out for collaborations, questions, or just a good conversation about coding, quantum theory, or the best pizza toppings.
-
-- Email: jdhavle@caltech.edu
-- LinkedIn: [Jennifer Dhavle](https://www.linkedin.com/in/jennifer-dhavle/)
-- Twitter: [@QuantumJen](https://twitter.com/QuantumJen)
-- Portfolio: [jennifer-dhavle.dev](https://jennifer-dhavle.dev)
 
 Thanks for stopping by my GitHub! 😊
